@@ -51,7 +51,7 @@ Figures follow the file name format ***Repo Figure X-Y***, where:
 
 ## File Format Information
 
-All figures are provided in TIFF format with a minimum resolution of 300 dpi to ensure clarity for review and reproduction.
+All figures are provided in TIFF format with a minimum resolution of 300 dpi to ensure clarity for review and reproduction. If indivisual TIFF file doesn't work, the zip file contains full TIFFs listed here.
 
 ## Contact Information
 
