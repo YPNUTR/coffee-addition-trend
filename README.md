@@ -48,3 +48,12 @@ Figures follow the file name format ***Repo Figure X-Y***, where:
 > a. p value = significance of subgroup–cycle interactions, tested using survey-weighted Wald F tests;
 > b. NHANES = National Health and Nutrition Examination Survey.
 > Error bars represent standard errors of survey-weighted estimates. Participants with missing information on education, ratio of family poverty-to-income, body mass index, weekly work hours, or daily sleep hours were excluded from significance tests. Participants with body mass index <18.5 kg/m² were excluded owing to limited sample size. Data on daily sleep hours were collected beginning in NHANES 2005–2006.
+
+## File Format Information
+
+All figures are provided in TIFF format with a minimum resolution of 300 dpi to ensure clarity for review and reproduction.
+
+## Contact Information
+
+For any questions regarding the supplementary figures or data, please contact:
+> Yongyi Pan - Yongyi.Pan@tufts.edu
