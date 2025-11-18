@@ -16,9 +16,11 @@ Each figure is labeled consistently with the manuscript (e.g., Supplementary Fig
 
 ## Supplementary Figures
 
-Supplementary figures follow the file name format ***Repo Figure X-Y***, where:
+### General Figure File Name
 
-- X = 1 (by *weight*) or 2 (by *energy))
+Figures follow the file name format ***Repo Figure X-Y***, where:
+
+- X = 1 (by *weight*) or 2 (by *energy*))
 
 - Y = coffee component listed in the table below:
 
